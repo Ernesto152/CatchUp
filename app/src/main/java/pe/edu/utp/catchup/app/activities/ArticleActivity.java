@@ -25,7 +25,7 @@ public class ArticleActivity extends AppCompatActivity {
     ImageButton urlImageButton;
     ImageButton bookmarkImageButton;
     ANImageView sourceLogoImageView;
-    //otro cambio
+    //ahora otro cambio mas
     boolean isBookmarked = false;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
