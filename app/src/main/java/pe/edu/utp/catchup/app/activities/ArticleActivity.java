@@ -24,7 +24,6 @@ public class ArticleActivity extends AppCompatActivity {
     TextView descriptionTextView;
     ImageButton urlImageButton;
     ImageButton bookmarkImageButton;
-    ImageButton bookmarkImageButton1;
     ANImageView sourceLogoImageView;
     boolean isBookmarked = false;
     @Override
